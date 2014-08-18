@@ -1,0 +1,4 @@
+RECIPES
+["admin", "bower", "devise", "email", "extras", "frontend", "gems", "git", "heroku", "init", "locale", "omniauth", "readme", "setup", "tests"]
+PREFERENCES
+{:dev_webserver=>"puma", :prod_webserver=>"puma", :database=>"sqlite", :templates=>"slim", :fixtures=>"factory_girl", :frontend=>"bootstrap3", :form_builder=>"none", :email=>"mandrill", :authentication=>"devise", :devise_modules=>"default", :authorization=>"none", :pages=>"none", :locale=>"pt-BR", :tests=>"rspec", :continuous_testing=>"guard", :ban_spiders=>true, :github=>true, :local_env_file=>"figaro", :quiet_assets=>true, :better_errors=>true, :pry=>true, :rvmrc=>false, :admin=>"activeadmin", :git=>true}
